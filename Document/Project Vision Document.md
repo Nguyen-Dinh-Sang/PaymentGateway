@@ -1,3 +1,5 @@
+# Project Vision Document
+
 **Lý do thực hiện dự án:** Trong bối cảnh thị trường lao động cạnh tranh mạnh mẽ, yêu cầu của nhà tuyển dụng ngày càng cao, tham vọng của bản thân quá lớn, nhưng kiến thức thì không đủ.​
 
 **Mục đích của dự án:** Review lại kiến thức của bản thân, học hỏi thử nghiệp các kiến thức mới. Xây dựng một hệ thống cổng thanh toán tập trung, cho phép tích hợp nhiều phương thức thanh toán phổ biến (thẻ tín dụng, ví điện tử, chuyển khoản ngân hàng) nhằm nâng cao trải nghiệm người dùng và tối ưu hóa quy trình thanh toán cho doanh nghiệp.​
